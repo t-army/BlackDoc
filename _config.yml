@@ -8,10 +8,10 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            BlackDoc
+title:            TurkishArmy
 tagline:          Black Theme for Jekyll
-description:      "A two-column black theme with a scrolling sidebar. Ideal for sites requiring a master-detail layout, e.g. documentation, cheatsheets, lyrics, notes..."
-url:              https://github.com/karloespiritu/blackdoc
+description:      "Bu site server 30'da bulunan ittifakimiz uyelerine bilgi vermek icin acilmistir."
+url:              https://s30-tr.gladiatus.gameforge.com/game/index.php?mod=guild&submod=forumGladiatorius&sh=e44d8ca4b22a3113c6bc95cea4d5ae72
 baseurl:          /
 
 author:
