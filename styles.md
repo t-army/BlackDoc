@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Theme Styles
+title: Members
 ---
 
 ## Full Style Test
