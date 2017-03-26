@@ -10,7 +10,7 @@ permalink:        pretty
 # Setup
 title:            TurkishArmy
 tagline:          Black Theme for Jekyll
-description:      "Bu site server 30'da bulunan ittifakimiz uyelerine bilgi vermek icin acilmistir."
+description:      "Bu site server 30'da bulunan ittifakimiz uyelerine bilgi vermek ve oyun ile ilgili icerik uretmek icin yayindadir."
 url:              https://s30-tr.gladiatus.gameforge.com/game/index.php?mod=guild&submod=forumGladiatorius&sh=e44d8ca4b22a3113c6bc95cea4d5ae72
 baseurl:          /
 
@@ -24,4 +24,4 @@ paginate:         5
 version:          1.0.1
 
 github:
-  repo:           https://github.com/karloespiritu/blackdoc
+  repo:           https://github.com/t-army/t-army.github.io
